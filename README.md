@@ -6,7 +6,7 @@ This project focuses on analyzing Netflix's global userbase using **Power BI**. 
 
 ## Dashboard Demonstration
 
-[Watch the Dashboard Demo Video](https://drive.google.com/file/d/your-video-id/view?usp=sharing)
+[Watch the Dashboard Demo Video](https://drive.google.com/drive/folders/1Csnb4JCtbQ6i_Kk31RP36YuzHfyvMPNk)
 
 ## Download the PBIX File
 
