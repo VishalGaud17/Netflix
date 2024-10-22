@@ -6,13 +6,19 @@ This project focuses on analyzing Netflix's global userbase using **Power BI**. 
 
 ## Dashboard Demonstration
 
-[Watch the Dashboard Demo Video](https://drive.google.com/drive/folders/1Csnb4JCtbQ6i_Kk31RP36YuzHfyvMPNk)
+[Watch the Dashboard Demo Video](https://drive.google.com/file/d/19m9S75efcBfKFjXd2KGXz__mi6bx3PPE/view?usp=drive_link)
 
 ## Download the PBIX File
 
 You can download and explore the `.pbix` file from the link below:
 
-[Download the Netflix Userbase Analysis PBIX](https://drive.google.com/file/d/your-pbix-id/view?usp=sharing)
+[Download the Netflix Userbase Analysis PBIX](https://drive.google.com/file/d/1B7YQEXh3YfpcDp_-rV9nYlXpRBESnOfC/view?usp=drive_link)
+
+## Dataset
+
+The dataset used in this analysis can be accessed from the link below:
+
+[Download the Netflix Userbase Dataset](https://drive.google.com/file/d/1Q7pPOZaFpmxGesCabDCCqwj722abLG0S/view?usp=drive_link)
 
 ## Key Features
 
