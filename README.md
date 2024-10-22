@@ -35,4 +35,4 @@ The dataset used in this analysis can be accessed from the link below:
 
 ## Contact
 
-For any questions or feedback, feel free to contact me at [your email] or connect with me on [LinkedIn](your-linkedin-url).
+For any questions or feedback, feel free to contact me at [gaudvishal1709@gmail.com] or connect with me on [LinkedIn](www.linkedin.com/in/vishalgaud).
